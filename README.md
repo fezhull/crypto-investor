@@ -1,5 +1,4 @@
-# crypto-investor
-
+# CryptoInvestor
 Let us assume you are a crypto investor. You have made transactions over a period of time which is logged in a CSV file. Write a command line program that does the following
 
 Given no parameters, return the latest portfolio value per token in USD
